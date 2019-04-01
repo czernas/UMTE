@@ -45,4 +45,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:id="@+id/sensorButton"
+        android:layout_marginTop="12dp"
+        android:layout_gravity="center"
+        android:text="Sensor activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </LinearLayout>
